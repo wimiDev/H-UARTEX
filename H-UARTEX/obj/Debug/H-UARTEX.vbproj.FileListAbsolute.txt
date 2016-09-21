@@ -1,0 +1,14 @@
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.exe.config
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.exe.manifest
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.application
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.exe
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.pdb
+F:\.NET program\H-UARTEX\H-UARTEX\bin\Debug\H-UARTEX.xml
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H_UARTEX.H_UART.resources
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H_UARTEX.Resources.resources
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.vbproj.GenerateResource.Cache
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.exe.manifest
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.application
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.exe
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.xml
+F:\.NET program\H-UARTEX\H-UARTEX\obj\Debug\H-UARTEX.pdb
